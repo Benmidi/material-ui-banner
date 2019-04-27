@@ -34,7 +34,7 @@ const styles = theme => ({
     flexGrow: 1,
   },
   buttons: {
-    alignSelf: 'flex-end',
+    alignSelf: 'center',
     paddingLeft: '90px !important',
   },
   label: {
